@@ -77,10 +77,10 @@ We’re open to partnerships, hackathons, pilot projects, and collaborations in:
 
 ## 📬 Contact Us
 
-- 📧 Email: hello@taitatech.co.ke  
-- 🌐 Website: [Coming Soon]  
-- 🐦 Twitter: [@TaitaTech](#)  
-- 💼 LinkedIn: [Taita Tech Solutions Ltd](#)
+- 📧 Email: info@taitatechsolutions.co.ke  
+- 🌐 Website: [Coming Soon](https://taitatechsolutions.co.ke)  
+- 🐦 Twitter: [@TaitaTechSolutions](#)  
+- 💼 LinkedIn: [TaitaTechSolutions Ltd](#)
 
 ---
 
@@ -88,13 +88,6 @@ We’re open to partnerships, hackathons, pilot projects, and collaborations in:
 
 All code and projects released by Taita Tech Solutions Ltd are under the [MIT License](./LICENSE), unless stated otherwise.
 
-<h1 style="text-align: center; font-size: 60px; color: purple;">Quick Tips Section</h1>
-
-
-![Alt Text](https://github.com/eric-mwakazi/eric-mwakazi.github.io/blob/master/assets/devsecops.gif)
-
-
-![Alt Text](https://github.com/eric-mwakazi/eric-mwakazi.github.io/blob/master/assets/linux.gif)
 
 
 
